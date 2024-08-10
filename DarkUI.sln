@@ -1,11 +1,11 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkUI", "DarkUI\DarkUI.csproj", "{F19472F5-8C44-4C51-A8A0-B9DE5F555255}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DarkUI", "DarkUI\DarkUI.csproj", "{F19472F5-8C44-4C51-A8A0-B9DE5F555255}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{FA334815-6D78-4E9A-9F4D-6C8A58222A57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example", "Example\Example.csproj", "{FA334815-6D78-4E9A-9F4D-6C8A58222A57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
